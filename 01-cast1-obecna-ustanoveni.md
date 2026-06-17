@@ -112,6 +112,11 @@ Toto omezení bylo do zákona vloženo jako protikorupční a depolitizační pr
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 17/2014 - 66](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/548063) — 17. 9. 2014
+  > „Služební funkcionář v řízení podle služebního zákona vystupuje v pozici správního orgánu, a to ve smyslu § 1 odst. 1 správního řádu a § 2 odst. 1 zákona č. 361/2003 Sb. ve znění pozdějších předpisů, byť odpovědnost za výkon rozhodnutí nese podle § 1 odst. 3 téhož zákona příslušný bezpečnostní sbor"
+
 #### Pojem služebního funkcionáře — ústřední procesní pojem zákona
 
 § 2 odst. 6 zavádí legislativní zkratku **„služební funkcionář"** pro osoby oprávněné jednat a rozhodovat ve věcech služebního poměru jménem státu. Jde o klíčový procesní pojem, na nějž odkazuje celý zákon: služební funkcionář vydává rozhodnutí o vzniku, průběhu a zániku služebního poměru (viz [02-cast2-vznik-sluzebniho-pomeru.md](02-cast2-vznik-sluzebniho-pomeru.md)), o kázeňských trestech, o odměňování, o výkonu a skončení služby.
@@ -216,6 +221,11 @@ Zvláštní pravidlo pro zpravodajské služby v odst. 5: organizační struktur
 > *(3) Služební předpis je pro příslušníky závazný.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [15 A 142/2018 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/592692) — 15. 12. 2020
+  > „… rozkaz je individuální řídící akt, kterým nadřízený příslušník závazně přikazuje konkrétně určenému podřízenému příslušníkovi nebo příslušníkům ozbrojených sil či bezpečnostních sborů povinnost něco vykonat nebo se určitého jednání zdržet (§ 5 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, čl. 64 Základního řádu ozbrojených sil České republiky z roku 2001). Musí z něj být zřejmá jednoznačná vůle nadřízeného k závaznosti vydaného aktu, přičemž není podstatné, v jaké formě je vydán. Uložená povinnost musí být spjata s plněním úkolů a posláním ozbrojených sil či bezpečnostních sborů a může být uložena pouze v oblasti, ve které je ten, kdo rozkaz ukládá, nadřízený tomu, komu je určen"
 
 #### Służební předpis jako podzákonný normativní akt
 

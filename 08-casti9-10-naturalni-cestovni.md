@@ -34,6 +34,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 23/2013 - 157](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/514528) — 7. 9. 2017
+  > „Smyslem ustanovení § 134 odst. 5 zákona č. 361/2003 Sb. je ulehčení poskytování naturálních náležitostí příslušníkům, jelikož jim bezpečnostní sbor nezabezpečuje jiný oděv a jeho obměnu, ani údržbu stejnokroje nebo jiného oděvu, a právě pro tyto účely jim poskytuje částečnou náhradu v penězích (viz důvodová zpráva k zákonu o služebním poměru)"
+
 #### Pojmové vymezení naturálních náležitostí (odst. 1)
 
 Naturální náležitosti jsou nepeněžní plnění spjatá s výkonem služby v bezpečnostním sboru. Zákon je vymezuje trojím způsobem:
@@ -624,6 +629,13 @@ Stravné při studiu nenáleží příslušníkovi ve **služebním poměru na d
 > *(5) Příslušník, který byl po přiznání náhrad cestovních výdajů podle odstavce 1 nebo 2 opětovně převeden na jiné služební místo v témže místě služebního působiště, má nárok na náhrady cestovních výdajů v rozsahu, ve kterém mu byly přiznány.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 397/2017 - 30](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/646400) — 23. 5. 2018
+  > „Pojem „přestěhování“ ve smyslu § 149 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, je nutné vyložit jako reálnou změnu bydliště příslušníka bezpečnostního sboru. Jde o projev vůle příslušníka na určitém místě trvale žít, na což lze usuzovat z jeho konkrétního jednání, jímž takovou vůli realizuje. Půjde např. o přestěhování všech jeho věcí nebo alespoň jejich podstatné části, přemístění ostatních členů rodiny, přeregistrace praktického lékaře apod"
+- *NSS* [52 Ad 8/2017 - 104](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/512269) — 25. 10. 2017
+  > „Pojem „přestěhování“ ve smyslu § 149 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, je nutné vyložit jako reálnou změnu bydliště příslušníka bezpečnostního sboru. Jde o projev vůle příslušníka na určitém místě trvale žít, na což lze usuzovat z jeho konkrétního jednání, jímž takovou vůli realizuje"
 
 #### Důvod úpravy — odloučení od rodiny při převelení
 

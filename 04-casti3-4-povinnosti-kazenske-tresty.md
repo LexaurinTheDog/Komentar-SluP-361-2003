@@ -110,6 +110,11 @@ Vedoucí příslušník nese odpovědnost nejen za vlastní plnění povinností
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [II.ÚS 685/08](https://nalus.usoud.cz/Search/GetText.aspx?sz=2-685-08_1) — usnesení, 17. 4. 2008
+  > „Policie České republiky se těší důvěře práva s ohledem na právní úpravu, které podléhá. To se konkrétně projevuje v tom, že jsou policisté povinni podle § 46 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, nestranně, řádně a svědomitě plnit služební povinnosti, které pro ně vyplývají z právních předpisů, služebních předpisů a rozkazů"
+
 #### Definice služební kázně (odst. 1)
 
 Zákon vymezuje služební kázeň třemi znaky: **nestranností**, **řádností** a **svědomitostí** při plnění povinností. Předmět kázně je trojvrstvý — vyplývá z (i) právních předpisů (zákon, podzákonné předpisy), (ii) služebních předpisů (interní normativní akty bezpečnostního sboru) a (iii) rozkazů (individuální příkazy nadřízených). Tato trojí zdroj povinností odráží specifický charakter hierarchického vztahu v bezpečnostním sboru, v němž závaznost rozkazů zajišťuje operativnost velení.
@@ -141,6 +146,11 @@ Toto ustanovení koresponduje s mezinárodněprávním principem odmítnutí „
 > *(2) Příslušník zpravodajské služby nesmí být členem odborové organizace.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 As 3/2021 - 45](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712143) — 27. 6. 2023
+  > „Smyslem § 47 odst. 1 zákona o služebním poměru je snaha zajistit politicky neutrální bezpečnostní sbor, což představuje předpoklad pro důvěru veřejnosti v nestranný výkon této veřejné služby. Jde o podmínky, které slovy Listiny jsou podmínkami vedoucími k zajištění veřejné bezpečnosti. […] Veřejnost totiž má právo při jednání s příslušníky bezpečnostních sborů očekávat, že má co dočinění s politicky neutrálními úředními osobami, které jsou stranou politického dění"
 
 #### Zákaz členství v politických stranách a hnutích (odst. 1)
 
@@ -191,6 +201,11 @@ Toto omezení se dotýká práva sdružovat se v odborových organizacích garan
 > *(5) Příslušník zpravodajské služby, příslušník Generální inspekce bezpečnostních sborů a příslušník Policie České republiky, který soustavně plní úkoly týkající se použití agenta, předstíraného převodu, zvláštní ochrany svědka nebo výroby a opatřování krycích dokladů, je povinen oznámit výkon jiné výdělečné činnosti podle odstavce 4 písm. a) až h) služebnímu funkcionáři nejméně 10 dnů před započetím jejího výkonu nebo bezodkladně po započetí jejího výkonu, nelze-li výdělečnou činnost s ohledem na okolnosti oznámit předem.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 176/2017 - 96](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/648125) — 24. 10. 2018
+  > „K propuštění příslušníka bezpečnostního sboru může dojít pouze tehdy, pokud jeho výdělečná činnost ohrožuje zájem chráněný zákonem o služebním poměru, jímž je zajištění řádného výkonu služby, ochrana důvěry veřejnosti v bezpečnostní sbory a zamezení střetu zájmů příslušníka se zájmy služby"
 
 #### Zákaz členství v orgánech obchodních korporací (odst. 1)
 
@@ -343,6 +358,11 @@ Zákon výslovně zahrnuje pod pojem „jednání" i opomenutí konání, k něm
 > *(3) Pokuta se ukládá příslušníkovi ve výši, kterou pro přestupek stanoví zvláštní právní předpis, a to i v případě opakovaného jednání majícího znaky přestupku.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Ad 3/2010 - 39](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/552453) — 13. 12. 2013
+  > „Odnětí hodnosti podle § 21 zákona o vojácích z povolání není kázeňským trestem za kázeňský přestupek, jak tomu je např. podle zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, kdy ve výčtu kázeňských trestů je v § 51 odst. 1 písm. d) zákona č. 361/2003 Sb. uvedeno odnětí služební hodnosti, přičemž uložení kázeňského trestu odnětí služební hodnosti je podle § 42 odst. 1 písm. e) zákona jedním z důvodů, pro který příslušník musí být propuštěn ze služebního poměru"
 
 #### Katalog kázeňských trestů (odst. 1)
 

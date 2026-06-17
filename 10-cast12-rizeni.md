@@ -14,6 +14,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [30 Cdo 1405/2016](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/0090A64E362736FAC125829800315F61?openDocument) — kat. A, 21. 3. 2018
+  > „Projednání a rozhodnutí o nároku na přiměřené zadostiučinění za nemajetkovou újmu způsobenou nepřiměřenou délkou správního řízení ve věcech služebního poměru podle části dvanácté zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ve znění pozdějších předpisů, případně průtahy v tomto řízení, patří do pravomoci soudů rozhodujících v občanském soudním řízení"
+
 #### Okruh účastníků — taxativní vymezení
 
 Zákon vymezuje okruh účastníků taxativně. Primárními účastníky jsou **příslušník** — tedy osoba v aktivním služebním poměru k bezpečnostnímu sboru — a **bývalý příslušník**, jehož služební poměr již skončil, avšak věc (například náhrada škody, výsluhové nároky, odvolání proti rozhodnutí vydanému za trvání poměru) se ho stále týká. **Pozůstalý po příslušníkovi** je účastníkem v řízeních dotýkajících se práv zemřelého příslušníka, zejména v řízeních o výsluhovém příspěvku, pozůstalostním příspěvku nebo odškodnění (vazba na část jedenáctou, viz [09-cast11-vysluhove-naroky.md](09-cast11-vysluhove-naroky.md)).
@@ -150,6 +155,11 @@ Překroční rozsahu plné moci váže zastoupeného jen při **schválení** ne
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 70/2011 - 95](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/622655) — 5. 10. 2011
+  > „Od zachování těchto zásad jsou pak odvislá konkrétní procesní práva účastníka řízení ve smyslu § 174 odst. 1 zákona č. 361/2003 Sb., a to právo nahlížet do spisu a pořizovat si z něj výpisy, navrhovat důkazy a činit jiné návrhy po celou dobu řízení, na poskytnutí informací o řízení potřebných k hájení svých práv a oprávněných zájmů, vyjádřit v řízení své stanovisko, klást otázky svědkům a znalcům, a vyjádřit se před vydáním rozhodnutí k jeho podkladům, ke způsobu jejich zjištění, popřípadě navrhnout jejich doplnění"
+
 #### Katalog procesních práv (odst. 1)
 
 Zákon garantuje účastníkovi úplný katalog procesních práv, přičemž tato práva trvají **po celou dobu řízení**:
@@ -191,6 +201,11 @@ Katalog práv účastníka v § 174 SluP je funkčně shodný s § 36 SŘ. Záko
 > *(5) Služební funkcionář je povinen rozhodnout o podání do 30 dnů a ve složitějších případech do 60 dnů od jeho doručení.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 9/2022 - 80](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/716838) — 25. 10. 2023
+  > „Žádost příslušníka o propuštění je podáním ve smyslu § 175 zákona č. 361/2003 Sb., a je to tedy právním úkonem příslušníka. (…) Při každém právním jednání musí být projevena vůle osoby, tj. vyjádření jejího zájmu na dosažení určitého následku, a to vůle svobodná, prostá omylu a neovlivněná tísní, popřípadě donucením"
 
 #### Formy podání (odst. 1)
 
@@ -392,6 +407,11 @@ SŘ upravuje zastavení řízení v § 66. Zákon č. 361/2003 Sb. je svébytnou
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 65/2011 - 68](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/622659) — 5. 10. 2011
+  > „Zásadu materiální pravdy v prostředí kázeňského trestání je tedy třeba vykládat jako povinnost služebního funkcionáře objasnit skutkové okolnosti deliktního jednání příslušníka do té míry, aby o jeho vině nevznikly „důvodné pochybnosti.“ Naproti tomu, zákonná úprava nevyžaduje výslovně „absolutní jistotu“ správního orgánu ve smyslu zjištění „skutečného stavu věci“…"
+
 #### Povinnost zjistit skutkový stav bez důvodných pochybností (odst. 1)
 
 Zákon ukládá funkcionáři povinnost **aktivně zjistit skutkový stav**, o němž nejsou důvodné pochybnosti, a to v nezbytném rozsahu. Jde o inkviziční princip v oblasti zjišťování skutkového stavu — funkcionář nemůže pasivně vyčkávat na podklady. Rozsah zjišťování je však omezen na to, co je „nezbytné pro rozhodnutí" — zákon nevyžaduje absolutní úplnost, ale dostatečnost pro vydání zákonného a odůvodněného rozhodnutí.
@@ -455,6 +475,11 @@ Zásada vázanosti pravomocným rozhodnutím o trestném činu odpovídá princi
 > *(8) Chyby v psaní, počtech a jiné zřejmé nesprávnosti v písemném vyhotovení rozhodnutí opraví služební funkcionář kdykoliv i bez návrhu a vyrozumí o tom účastníka.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ad 7/2017 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417980) — 11. 6. 2020
+  > „Ve smyslu § 181 odst. 5 zákona č. 361/2003 Sb., musí být odůvodnění nadáno určitou mírou přesvědčivosti s tím, že musí být dostatečně určitě vymezeny důvody, které příslušný orgán vedly ke konkrétnímu rozhodnutí"
 
 #### Definice rozhodnutí (odst. 1)
 
@@ -571,6 +596,11 @@ Vyloučení § 174 odst. 1 písm. b) v zvláštním řízení je **anomálií** 
 > *(2) Prvním úkonem může být doručení rozhodnutí o propuštění, jestliže služební funkcionář uvedený v odstavci 1 zjistil takový stav věci, o němž nejsou důvodné pochybnosti, a to v rozsahu, který je nezbytný pro jeho rozhodnutí.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [7 As 114/2018 - 33](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/647968) — 11. 10. 2018
+  > „realizace procesních práv uvedených v § 174 odst. 1 zákona č. 361/2003 Sb. před vydáním rozhodnutí je z povahy věci vyloučena (§ 184 odst. 2 zákona č. 361/2003 Sb.)"
 
 #### Zahájení a první úkon v jednom aktu
 
@@ -845,6 +875,11 @@ Trest zákazu činnosti se vykoná i po skončení služebního poměru. Toto pr
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ad 7/2017 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417980) — 11. 6. 2020
+  > „§ 190 odst. 7 zákona č. 361/2003 Sb., kdy se ve vztahu k posuzování zákonnosti rozhodnutí uplatní úplný revizní princip, podle něhož platí, že správní orgán rozhodující o odvolání má povinnost přezkoumat rozhodnutí i mimo rozsah námitek podaných odvolatelem"
+
 #### Lhůta a místo podání odvolání (odst. 1)
 
 Obecná lhůta pro odvolání je **15 dnů** od doručení rozhodnutí. Odvolání se podává **u prvostupňového funkcionáře** (nikoli přímo u odvolacího orgánu) — jde o zásadu devolutivního opravného prostředku s autoremedurní klausulí (odst. 6).
@@ -936,6 +971,11 @@ Rozklad je opravným prostředkem proti rozhodnutím **předsedy vlády, ministr
 > *(5) Proti novému rozhodnutí ve věci je možno podat odvolání (rozklad).*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [38 Ad 13/2010 - 29](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/559159) — 4. 9. 2012
+  > „… ust. § 192 zákona č. 361/2003 Sb., které je lex specialis vůči ust. § 100 a násl. zákona č. 500/2004 Sb., správní řád, řízení ukončené pravomocným rozhodnutím ve věci správní orgán na žádost účastníka řízení obnoví, jestliže vyšly najevo dříve neznámé skutečnosti nebo důkazy, které existovaly v době původního … řízení, a účastník, jemuž jsou ku prospěchu, je nemohl v původním řízení uplatnit…"
 
 #### Důvody obnovy řízení (odst. 1)
 

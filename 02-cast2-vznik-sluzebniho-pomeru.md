@@ -36,6 +36,13 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [16 Ad 3/2019 - 27](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/673992) — 7. 9. 2021
+  > „[p]odmínka bezúhonnosti pro výkon určité funkce či veřejné služby je standardním nástrojem objevujícím se nejen v zákonech [např. § 13 odst. 1 písm. c) zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů], nýbrž i v Ústavě … Její cíl bývá v obecné rovině dvojí. Předně je v něm možno spatřovat snahu zákonodárce … zajistit co nejkvalitnější výkon veřejných funkcí … Podmínka bezúhonnosti je v tomto směru založena právě na úvaze, že u bezúhonného člověka je vyšší pravděpodobnost, že svou funkci bude vykonávat nejen dobře …, ale i v souladu se zákonem. … Druhá funkce podmínky bezúhonnosti souvisí s požadavkem důvěry občanů ve veřejnou moc. … Její podstatou a smyslem není sankcionovat či omezit jednotlivce, nýbrž pouze stanovit určitý standard pro výkon společensky významných činností.“ (nález Pl. ÚS 8/16)"
+- *NSS* [1 As 219/2020 - 41](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/656408) — 8. 10. 2020
+  > „Pakliže je podle § 13 odst. 1 písm. e) zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, osobnostní způsobilost k výkonu služby jedním z předpokladů k přijetí do služby, pak tato podmínka musí být bezpodmínečně splněna po celou dobu výkonu služby"
+
 #### Povaha předpokladů — uzavřený výčet podmínek (odst. 1)
 
 § 13 odst. 1 zakotvuje **taxativní výčet podmínek** pro vstup do služebního poměru. Všechny podmínky jsou kumulativní — uchazeč musí splňovat všechny současně; nesplnění jediné z nich vylučuje přijetí. Zákon neponechává prostor pro správní uvážení o tom, zda určitou podmínku prominout (s jedinou výslovnou výjimkou podle odst. 2 pro zpravodajské služby). Podmínky jsou personální povahy a váží se k osobě uchazeče.
@@ -95,6 +102,11 @@ Podmínky písm. h) a i) se prokazují **čestným prohlášením** uchazeče, n
 > *(3) Při posuzování bezúhonnosti se nepřihlíží k zahlazení odsouzení podle zvláštního právního předpisu nebo k rozhodnutí prezidenta republiky, v jejichž důsledku se na občana hledí, jako by odsouzen nebyl.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [41 A 52/2020 - 58](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/698697) — 9. 3. 2022
+  > „Výjimky z fikce trestní bezúhonnosti tedy může stanovit jen zákon pro účely v něm výslovně uvedené. Například § 22 zákona č. 119/2002 Sb., o střelných zbraních a střelivu (zákon o zbraních), nebo § 14 odst. 3 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů výslovně vylučují, aby hrálo roli zahlazení odsouzení. K odsouzení se proto v těchto výslovně předvídaných případech přihlíží a odsouzený tím pádem nemůže splňovat podmínku bezúhonnosti, jak ji chápou tyto zákony …"
 
 #### Autonomní definice bezúhonnosti — negativní výčet (odst. 1 a 2)
 
@@ -316,6 +328,13 @@ Osobní údaje nepřijatého uchazeče jsou uchovávány po dobu **3 let** (odst
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [5 Ca 196/2008 - 95](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/564116) — 16. 9. 2011
+  > „Okamžikem právní moci rozhodnutí je služební hodnost odňata, čímž příslušník pozbývá jednu ze základních podmínek trvání služebního poměru [služební poměr totiž nelze vykonávat „bez hodnosti“; podle § 17 odst. 1 písm. e) zákona č. 361/2003 Sb. je výrok o jmenování do služební hodnosti součástí rozhodnutí o přijetí do služebního poměru]; služební poměr tak nemůže nadále trvat a příslušník z něj musí být propuštěn"
+- *NSS* [7 As 119/2022 - 19](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/712236) — 28. 6. 2023
+  > „V tomto ohledu nelze nezmínit, že příslušníci ozbrojených složek se zavazují nasadit v případě potřeby pro Českou republiku i vlastní život (srov. § 3a zákona č. 219/1999 Sb., o ozbrojených silách České republiky, nebo § 17 odst. 3 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů). Již z uvedených důvodů nelze postavení vojáků z povolání porovnávat s postavením občanů, resp. běžných zaměstnanců …"
+
 #### Konstitutivní rozhodnutí — základ vzniku SP (odst. 1)
 
 Zákon konstruuje vznik SP na základě **konstitutivního rozhodnutí** (správního aktu) služebního funkcionáře. Tím se SluP odlišuje od pracovněprávní úpravy, kde pracovní poměr vzniká uzavřením pracovní smlouvy jako dvoustranného soukromoprávního úkonu (§ 34 zákoníku práce). V případě SP jde o akt veřejné moci vydaný z pozice služební nadřízenosti státu — uchazeč nemá smluvní rovnoprávnost, nýbrž je subjektem veřejnoprávního vztahu vzniklého aktem autoritativním.
@@ -411,6 +430,11 @@ Příslušník je jmenován **do hodnosti stanovené pro místo, na které je us
 > *(7) Bezpečnostní sbor je povinen příslušníkovi uvedenému v odstavci 2 větě třetí, který nesplňuje pro služební místo další odborný požadavek, umožnit absolvování odborné přípravy směřující ke splnění tohoto požadavku bez zbytečného odkladu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ad 7/2017 - 59](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/417980) — 11. 6. 2020
+  > „Vymezení služebního místa je v kompetenci bezpečnostního sboru (§ 19 zákona č. 361/2003 Sb.), který je povinen definovat služební místa v souladu s účelem plnění úkolů bezpečnostního sboru. Pokud je k tomu nezbytné, aby byl s každým služebním místem spojen požadavek oprávnění k seznamování se s utajovanými informacemi, je bezpečnostní sbor povinen takovou podmínku pro každé služební místo stanovit"
 
 #### Pojem služebního místa (odst. 1)
 

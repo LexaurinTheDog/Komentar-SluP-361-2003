@@ -16,6 +16,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [Pl.ÚS 20/09](https://nalus.usoud.cz/Search/GetText.aspx?sz=Pl-20-09_1) — nález, 15. 11. 2011
+  > „Je notoricky známou skutečností, že jakékoli překračování zákonné pracovní doby ("základní doby služby v týdnu" - § 52 odst. 1 zákona č. 361/2003 Sb.) představuje pro zaměstnance mimořádnou pracovní, psychickou a fyzickou zátěž a omezuje je v plnohodnotném osobním a rodinném životě. Jestliže už zákonodárce připouští, aby z důležitých důvodů byla zákonná pracovní doba překročena, potom, má-li zároveň vyhovět ústavnímu příkazu zaručit spravedlivou odměnu…"
+
 #### Základní týdenní fond — 37,5 hodiny
 
 Zákon stanoví základní týdenní dobu služby na 37,5 hodiny, tedy o 2,5 hodiny méně než standardní pracovní týden v zákoníku práce (40 hodin dle § 79 odst. 1 zákoníku práce). Zkrácení odráží specifika bezpečnostní služby: zvýšenou fyzickou a psychickou zátěž, nepřetržitou pohotovost, směnový provoz a rizikový charakter povolání. Jde o **horní hranici základní doby**; zákon ji lze jen zkrátit (na žádost příslušníka), nikoliv prodloužit mimo mechanismus přesčasu (§ 54).
@@ -107,6 +112,11 @@ Odst. 5 zakotvuje specifický model pro příslušníky Hasičského záchranné
 > *(5) Do celkového rozsahu nejvýše přípustné služby přesčas ve vyrovnávacím období podle odstavce 3 se nezapočítává služba přesčas, za kterou bylo příslušníkovi poskytnuto náhradní volno, a služba přesčas u příslušníka s kratší dobou služby v týdnu, která nepřesahuje základní dobu služby v týdnu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 16/2016 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/699271) — 1. 2. 2022
+  > „[p]okud bylo v daný den do služby přesčas povoláno stejné či menší množství příslušníků než těch, kteří ve službě chyběli z mimořádného a nepředvídatelného důvodu, je nutno přesčas nařízený s odůvodněním kumulace absencí považovat za přesčas nařízený v důležitém zájmu služby v souladu s § 54 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů. Naopak, jestliže by soud dospěl k závěru, že v určitém dni bylo ke službě přesčas povoláno více příslušníků než těch, kteří byli nepřítomni z „přesčasově uznatelných“ důvodů, nemohlo by se jednat o přesčas nařízený v souladu s podmínkami § 54 citovaného zákona…"
 
 #### Definice přesčasu (odst. 1)
 
@@ -305,6 +315,13 @@ Odst. 2 chrání příslušníka: pokud si „nashromáždil" hodiny dobrovolně
 > *(3) Jde-li o službu, jejíž výkon nemůže být přerušen, musí být příslušníkovi i bez přerušení výkonu služby zajištěna přiměřená doba na jídlo a odpočinek.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 Ad 11/2024 - 73](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/746454) — 27. 8. 2025
+  > „Smyslem institutu přestávky na jídlo a odpočinek podle § 60 odst. 1 zákona č. 361/2003 Sb. je to, že jde o „zákonem garantovanou (nárokovou) dobu, v rámci, které policista nevykonává službu a tento časový úsek je určen výhradně k jeho odpočinku, a to způsobem, který daný policista zvolí“ (rozsudek NSS ze dne 18. 7. 2019, č. j. 8 As 257/2018-44). Smyslem uvedených režimů je umožnit příslušníkům přestávku na jídlo a odpočinek čerpat v uvedeném standardu a požadované délce"
+- *NSS* [9 Ad 14/2022 - 154](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/715895) — 22. 9. 2023
+  > „Jde-li o takový výkon služby, který nemůže být přerušen, se nejedná o přestávky dle § 60 odst. 1 cit. zákona nezapočítatelné do doby služby dle § 60 odst. 2 zákona, ale je poskytována přiměřená doba na jídlo a odpočinek, která se dle sledu úpravy celého ust. § 60 zákona do doby služby započítává a je tedy zohledněna i v rámci služebního příjmu… odpověď na otázku, zda jde o nezapočítatelnou dobu přestávek ve službě či započítatelnou přiměřenou dobu na jídlo a odpočinek, závisí na charakteru výkonu služby"
 
 #### Nárokový charakter a časový limit (odst. 1)
 

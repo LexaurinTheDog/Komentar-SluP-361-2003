@@ -74,6 +74,13 @@ Odst. 4 výslovně přijímá možnost, že výběrové řízení skončí **bez
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [30 Ad 8/2018 - 117](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/671139) — 25. 11. 2020
+  > „Účelem řízení podle § 25 odst. 1 písm. b) zákona č. 361/2003 Sb. bylo odvolat z dosavadního služebního místa příslušníka bezpečnostního sboru, jestliže mu zanikla platnost osvědčení fyzické osoby a byl-li osobou určenou ke styku s utajovanými informacemi"
+- *NSS* [17 Ad 1/2021 - 153](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/704547) — 28. 7. 2022
+  > „Do zálohy může být podle § 32 odst. 1 písm. d) zákona č. 361/2003 Sb. zařazen pouze příslušník, který byl na základě odnětí osvědčení o fyzické způsobilosti stanovené pro jeho služební místo coby jiný zvláštní požadavek ve smyslu § 19 odst. 6 zákona č. 361/2003 Sb. odvolán ze služebního místa podle § 25 odst. 1 písm. c) zákona č. 361/2003 Sb., a není možno jej ustanovit na jiné služební místo. Totožně se postupuje při pozbytí zdravotní nebo osobnostní způsobilosti"
+
 #### Odvolání z moci úřední — taxativní důvody (odst. 1–3)
 
 § 25 odst. 1 až 3 upravuje situace, v nichž je odvolání příslušníka **obligatorní** — zákon v těchto případech nestanoví diskreci, nýbrž povinnost služebního funkcionáře. Důvody lze rozčlenit do tří skupin:
@@ -249,6 +256,11 @@ Záloha zvláštní je vyhrazena výlučně příslušníkům zpravodajských sl
 > *(3) Do zálohy pro přechodně nezařazené se zařadí též těhotná příslušnice, příslušnice do konce devátého měsíce po porodu nebo příslušnice, která kojí, jestliže to vyžaduje její bezpečnost a ochrana zdraví při výkonu služby, nepodaří-li se odstranit rizika spojená s výkonem její služby a nelze ji ustanovit na jiné pro ni vhodné služební místo.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [17 Ad 1/2021 - 153](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/704547) — 28. 7. 2022
+  > „Do zálohy může být podle § 32 odst. 1 písm. d) zákona č. 361/2003 Sb. zařazen pouze příslušník, který byl na základě odnětí osvědčení o fyzické způsobilosti stanovené pro jeho služební místo coby jiný zvláštní požadavek ve smyslu § 19 odst. 6 zákona č. 361/2003 Sb. odvolán ze služebního místa podle § 25 odst. 1 písm. c) zákona č. 361/2003 Sb., a není možno jej ustanovit na jiné služební místo. Totožně se postupuje při pozbytí zdravotní nebo osobnostní způsobilosti"
 
 #### Záloha pro přechodně nezařazené — překlenovací funkce
 
@@ -441,6 +453,11 @@ Příslušník po dobu zastupování **nevykonává svou původní náplň** (od
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 Ad 26/2016 - 42](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/440053) — 11. 4. 2019
+  > „Účelem zproštění výkonu služby podle § 40 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, není pouze zabránit příslušníkovi v pokračování ve službě na konkrétním služebním místě, ale dočasné odstavení od výkonu služby v bezpečnostním sboru vůbec"
+
 #### Zproštění výkonu služby — preventivní bezpečnostní opatření
 
 Zproštění výkonu služby je **obligatorním preventivním opatřením**, nikoli sankcí — zákon výslovně uvádí „musí být zproštěn", přičemž podmínkou je „důvodné podezření", nikoliv pravomocné odsouzení. Zákon tím vyjadřuje, že pouhé podezření postačuje k odstavení příslušníka, je-li splněna druhá kumulativní podmínka — ohrožení důležitého zájmu služby nebo ohrožení průběhu prošetřování. Absence druhé podmínky (zájem služby ani průběh prošetřování nejsou ohroženy) musí vést k zachování příslušníka ve výkonu služby.
@@ -568,6 +585,13 @@ Zákon o SluP délku zkušební doby explicitně stanoví v části věnované v
 > *(6) Při propuštění příslušníka podle odstavců 2 a 3 skončí služební poměr uplynutím 2 kalendářních měsíců následujících po dni doručení rozhodnutí o propuštění, jestliže služební funkcionář nerozhodne na základě žádosti příslušníka o době kratší.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *ÚS* [III.ÚS 156/12](https://nalus.usoud.cz/Search/GetText.aspx?sz=3-156-12_1) — usnesení, 30. 5. 2013
+  > „Co se týče ostatních podmínek postupu podle předmětného ustanovení, jedná se, jak bylo uvedeno, o zákonem vázaný právní akt, kdy podle § 180 odst. 5 služebního zákona byl policejní orgán vázán pravomocným rozhodnutím příslušného orgánu. Přitom je zde výslovně stanoveno, že služební funkcionář si nemůže učinit úsudek o tom, zda byl spáchán trestný čin a kdo za něj odpovídá"
+- *NSS* [3 Ads 104/2010 - 57](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620146) — 24. 11. 2010
+  > „Nejvyšší správní soud dodává, že podle důvodové zprávy zákona č. 361/2003 Sb. bylo smyslem vymezení lhůt v § 42 zákona zamezení dlouhodobé právní nejistoty příslušníka o stabilitě služebního poměru. Objektivní lhůta tedy byla stanovena proto, aby rozhodnutí nemohlo být vydáno v podstatě kdykoli po dobu trvání služebního poměru, aby příslušník skutečně nebyl v nejistotě, že se o jeho protiprávním jednání jeho nadřízený kdykoli dozví a zahájí řízení o propuštění ze služebního poměru"
 
 #### Taxativní důvody propuštění — struktura odst. 1
 

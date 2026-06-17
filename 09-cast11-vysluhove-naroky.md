@@ -22,6 +22,11 @@
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [10 A 11/2018 - 55](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/433384) — 14. 10. 2019
+  > „Odchodné je v české právní úpravě tradičně pojato jako výsluhová dávka náležející osobám odcházejícím ze služebních poměrů (srov. § 140 zákona č. 221/1999 Sb., o vojácích z povolání nebo § 155 zákona č. 361/2003 Sb. o služebním poměru příslušníků bezpečnostních poměrů). V řízení o přiznání této dávky jde tedy o řízení a rozhodování o osobním nároku fyzické osoby zohledňující specifika její služby"
+
 #### Povaha odchodného a jeho místo v systému výsluhových nároků
 
 Odchodné je **jednorázová peněžitá dávka** poskytovaná z titulu ukončení služebního poměru po dosažení minimální doby služby. Netvoří součást systému sociálního pojištění, nýbrž je zvláštním zaopatřovacím plněním bezpečnostního sboru vůči svým (bývalým) příslušníkům. Právní základ leží výhradně v zákoně o služebním poměru; pracovněprávní předpisy (zákoník práce, zákon o zaměstnanosti) se na odchodné nevztahují. Odchodné plní kompenzační funkci — odškodňuje přechodný pokles příjmů bezprostředně po skončení služby a přechod do civilního zaměstnání nebo důchodu. Srovnatelnou funkcí disponuje odbytné vojáka z povolání a odchodné vojáka z povolání upravené zvláštním zákonem (zákon č. 221/1999 Sb.), na nějž zákon v § 156 odst. 2 výslovně odkazuje pro případ předchozího výsluhy v armádě.
@@ -179,6 +184,11 @@ Výměra v rozmezí 20–50 % hrubého měsíčního příjmu odpovídá zhruba 
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [3 Ads 120/2010 - 54](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/620304) — 15. 12. 2010
+  > „Ustanovení § 119 odst. 1 zákona č. 186/1992 Sb., podle něhož se přiznaný příspěvek za službu zvyšoval ve stejných termínech a stejným způsobem jako procentní výměra částečného invalidního důchodu, ani aktuálně platný a účinný § 159 zákona č. 361/2003 Sb., v žádném případě není možno vykládat tak, že se v případě příspěvku za službu či výsluhového příspěvku jednalo a jedná o důchod. Předmětem regulace obou uvedených ustanovení je pouze technika výpočtu valorizace, nikoliv samotná podstata (účel) výsluhových dávek"
+
 #### Mechanismus valorizace — navázání na důchodovou valorizaci
 
 Výsluhový příspěvek podléhá **pravidelné valorizaci** odvozené od mechanismu zvyšování procentní výměry důchodů ze základního důchodového pojištění. Odkaz míří na zákon č. 155/1995 Sb., o důchodovém pojištění (§ 67 a násl.), a na prováděcí nařízení vlády vydávaná každoročně k valorizaci důchodů.
@@ -208,6 +218,11 @@ Valorizace na úrovni 50 % důchodové valorizace znamená, že reálná hodnota
 > *Při souběhu nároku na výplatu výsluhového příspěvku s nárokem na výplatu starobního důchodu ze základního důchodového pojištění nebo invalidního důchodu se výsluhový příspěvek vyplácí pouze tehdy, jestliže je vyšší než některý z uvedených důchodů, a to ve výši rozdílu mezi výsluhovým příspěvkem a důchodem. Rozdíl mezi výsluhovým příspěvkem a důchodem se zjišťuje ke dni přiznání starobního důchodu ze základního důchodového pojištění nebo invalidního důchodu anebo ke dni úpravy invalidního důchodu při změně stupně invalidity. Jde-li o souběh nároku na výplatu výsluhového příspěvku s nárokem na výplatu starobního důchodu ze základního důchodového pojištění, považuje se ode dne přiznání starobního důchodu ze základního důchodového pojištění za výsluhový příspěvek toliko rozdíl mezi náležejícím starobním důchodem ze základního důchodového pojištění a výsluhovým příspěvkem k tomuto dni a nadále se samostatně zvyšuje podle § 159 bez přihlédnutí k výši důchodu.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [11 Ad 16/2011 - 28](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/546825) — 5. 12. 2014
+  > „Cílem aplikovaného § 160 odst. 1 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů … je upravit situaci, kdy oprávněnému vznikl nárok na výsluhový příspěvek i na dávku důchodového pojištění. Základním pravidlem pak je, že výsluhový příspěvek, je-li vyšší než důchod, se po dobu souběhu vyplácí pouze ve výši rozdílu mezi ním a důchodovou dávkou. Pro stanovení výše rozdílu podle § 160 odst. 1 služebního zákona je zcela nepodstatné, který z obou nároků vznikl dříve, neboť rozhodný je nutně vždy den, ke …"
 
 #### Systémový rámec — proč souběh nelze ignorovat
 
@@ -258,6 +273,11 @@ Zanikne-li nárok na vojenský výsluhový příspěvek (typicky odsuzujícím r
 > *(2) Jestliže je bývalý příslušník přijat do služebního poměru vojáka z povolání, zaniká mu nárok na výplatu výsluhového příspěvku dnem, který předchází dni jeho přijetí do služebního poměru vojáka z povolání.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [6 As 55/2006 - 96](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/253429) — 11. 7. 2007
+  > „Tyto sociální důvody, které do určité míry odůvodňují poskytování příspěvku za službu, spočívají zjevně ve snaze usnadnit příslušníku ozbrojeného sboru … přechod do civilního zaměstnání a sanovat ztráty, které tím utrpí; o této motivaci svědčí jednak skutečnost, že příslušníkovi, který je po skončení služebního poměru bezprostředně přijat do služebního poměru podle jiného zákona, příspěvek nenáleží (§ 119 odst. 2 zákona o BIS, v současnosti § 162 zákona č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů) …"
 
 #### Zánik nároku na výplatu — distinktivní charakter
 
@@ -324,6 +344,11 @@ Zákon u oznamovací povinnosti dle odst. 2 nestanoví konkrétní lhůtu, pouze
 > *(3) Výše úmrtného činí dvanáctinásobek měsíčního služebního příjmu zemřelého příslušníka.*
 
 **Výklad:**
+
+**Judikatura (z místních zdrojů):**
+
+- *NSS* [8 A 343/2011 - 98](https://vyhledavac.nssoud.cz/DokumentOriginal/Text/558201) — 15. 11. 2012
+  > „Úmrtné je pouze jednou ze součástí práva na přiměřené hmotné zabezpečení při ztrátě živitele (srov. i výše citovaný nález Ústavního soudu ze dne 19. 11. 2009, sp. zn. Pl. ÚS 10/07) a neplní tedy tuto funkci jen samo o sobě. … z toho však nelze obecně usuzovat na to, že by funkcí úmrtného nebyla kompenzace prvotní újmy při ztrátě živitele"
 
 #### Povaha a funkce úmrtného
 

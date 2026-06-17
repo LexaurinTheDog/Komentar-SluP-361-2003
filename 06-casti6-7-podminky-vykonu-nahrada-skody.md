@@ -684,6 +684,11 @@ Zákon stanoví **prekluzivní lhůtu** 15 dnů od okamžiku, kdy se příslušn
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [25 Cdo 5551/2017](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/16C5641203E05EDBC12582CD0026266E?openDocument) — kat. A, 14. 5. 2018
+  > „Jestliže zákon č. 361/2003 Sb., o služebním poměru příslušníků bezpečnostních sborů, ani jiný právní předpis, neobsahuje zvláštní právní úpravu regresního vztahu mezi přímým škůdcem a státem jakožto tím, kdo je povinen k náhradě škody, může se stát (Česká republika prostřednictvím příslušného bezpečnostního sboru) domáhat postihu vůči takovému škůdci za použití obecné úpravy regresu podle § 2917 o. z"
+
 #### Objektivní odpovědnost sboru za služební úraz
 
 Odpovědnost sboru za škodu způsobenou služebním úrazem nebo nemocí z povolání je **objektivní** — sbor se zprostí jen za podmínek výslovně uvedených v § 111. Tato objektivní odpovědnost je odůvodněna tím, že sbor profituje z výkonu služby svých příslušníků a musí nést rizika s ní spojená. Srovnání se ZP: § 366 odst. 1 ZP zakotvuje identickou objektivní odpovědnost zaměstnavatele za pracovní úraz.
